@@ -1,0 +1,30 @@
+{
+  "classes": [
+    "pepper bell bacterial spot",
+    "pepper bell healthy",
+    "potato early blight",
+    "potato late blight",
+    "tomato bacterial spot",
+    "tomato early blight",
+    "tomato late blight",
+    "tomato leaf mold",
+    "tomato septoria leaf spot",
+    "tomato target spot",
+    "tomato tomato mosaic virus"
+  ],
+  "label_map": {
+    "pepper bell bacterial spot": 0,
+    "pepper bell healthy": 1,
+    "potato early blight": 2,
+    "potato late blight": 3,
+    "tomato bacterial spot": 4,
+    "tomato early blight": 5,
+    "tomato late blight": 6,
+    "tomato leaf mold": 7,
+    "tomato septoria leaf spot": 8,
+    "tomato target spot": 9,
+    "tomato tomato mosaic virus": 10
+  },
+  "num_classes": 11,
+  "img_size": 224
+}
